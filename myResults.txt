@@ -1,0 +1,2 @@
+Highest selling Genre: Action		 Global Sales (in millions): 4344942.28
+Lowest selling Genre: Strategy		 Global Sales (in millions): 93194.59

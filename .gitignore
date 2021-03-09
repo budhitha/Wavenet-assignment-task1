@@ -1,0 +1,9 @@
+target/scala-2.11/classes/
+target/scala-2.11/update/
+target/streams/
+out/
+project/project
+project/target
+spark-warehouse
+.idea
+WNtask1.zip
